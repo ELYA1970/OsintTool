@@ -1,0 +1,2827 @@
+{
+  "domain": "facebook.com",
+  "subdomains": {
+    "domain": "facebook.com",
+    "gobuster_error": null,
+    "total_found": 286,
+    "subdomains": [
+      {
+        "subdomain": "a.ok.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "adtools.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ak.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "alpha.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "api.connect.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "api.facebook.com",
+        "ip": "57.144.68.141",
+        "http": false,
+        "https": true,
+        "status_code": 403
+      },
+      {
+        "subdomain": "ash-cas01.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-cas02.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-cas03.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-cas04.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-cas05.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-cas06.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-hub01.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-hub02.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-hub03.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-hub04.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-hub05.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ash-hub06.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "assistant.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "autodiscover.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "autodiscover.thefacebook.com",
+        "ip": "52.98.237.152",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "beta.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "bigzipfiles.facebook.com",
+        "ip": "157.240.5.10",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "channel.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "chat.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "china--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "cinyour.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "cinyourrc.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "circa.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "circa.vvv.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "cisco-imc.iad3.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "clientsidetesticici.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "connect.facebook.com",
+        "ip": "157.240.5.35",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "cpanel.the--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "cstools.facebook.com",
+        "ip": "157.240.5.8",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "ctscan.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "dev.facebook.com",
+        "ip": "10.110.135.10",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "devvm1958.ftw3.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "dewey-lfs.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "dewey.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "drmail.thefacebook.com",
+        "ip": "69.63.185.62",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "extern.facebook.com",
+        "ip": "157.240.5.8",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "extools.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "f--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "facebook-amex-dev.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "facebook-amex-encryption.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "facebook-amex-sign-enc-dev.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "facebook-amex-sign.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "facebook-amex.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "facebook-icd-autopay.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "fb.alpha.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "fb.beta.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "fb.m.alpha.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "fb.m.beta.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "gsstore.the--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "hr.facebook.com",
+        "ip": "10.110.143.17",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "hyper-boundary-gate.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "hyper-boundary-gate.vvv.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "intern.facebook.com",
+        "ip": "157.240.5.8",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "interngraph.prod.scgraph.facebook.com",
+        "ip": "10.110.135.19",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "interngraph.scgraph.facebook.com",
+        "ip": "10.110.135.19",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "interngraph.staging.scgraph.facebook.com",
+        "ip": "10.110.135.19",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "interninyour.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "internmc.facebook.com",
+        "ip": "157.240.5.23",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "internmcr.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "inyour.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "inyourrc.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "jenkins.presto.data.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "lantern.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "latest.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "legacymail.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "letools.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "lite.facebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "llama-ztp.corp.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "login.beta.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "login.connect.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "login.facebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "m.alpha.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "m.beta.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "m.facebook.com",
+        "ip": "157.240.5.35",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "m.intern.facebook.com",
+        "ip": "157.240.5.8",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "m.internmc.facebook.com",
+        "ip": "157.240.5.23",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "m.prod.facebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "mail.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "mail.the--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "mail.thefacebook.com",
+        "ip": "163.114.130.125",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "mailapac.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "maileast.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "mailemea.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "msgin-regional.vvv.facebook.com",
+        "ip": "66.220.149.251",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "msgin.t.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "msgin.vvv.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "netdna01.iad3.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "netdna01.sjc1.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "newdev.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "news--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "outlook.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "p.facebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "perfshield.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen0.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen1.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen10.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen11.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen12.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen13.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen14.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen15.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen16.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen17.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen18.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen19.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen2.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen20.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen21.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen22.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen23.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen24.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen25.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen26.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen27.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen28.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen29.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen3.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen30.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen4.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen5.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen6.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen7.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen8.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "playpen9.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "presto.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "prod.facebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "prod.scgraph.facebook.com",
+        "ip": "10.110.143.20",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "proxygen-verifier.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "proxygen_verifier.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "push.delivery.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart001.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart001.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart002.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart002.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart003.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart003.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart004.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart004.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart005.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart005.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart006.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart006.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart007.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart007.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart008.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart008.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart009.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart009.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart010.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart010.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart011.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart011.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart012.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart012.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart013.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart013.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart014.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart014.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart015.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart015.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart016.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart016.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart017.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart017.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart018.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart018.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart019.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart019.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart020.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart020.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart021.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart021.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart022.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart022.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart023.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart023.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart024.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart024.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart025.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart025.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart026.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart026.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart027.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart027.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart028.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart028.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart029.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart029.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart030.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart030.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart031.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart031.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart032.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart032.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart033.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart033.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart034.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart034.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart035.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart035.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart036.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart036.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart037.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart037.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart038.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart038.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart039.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart039.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart040.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "rampart040.rampart.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "register.facebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "register.new.facebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "s-static.ak.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-cas01.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-cas02.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-cas03.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-cas04.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-cas05.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-cas06.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-hub01.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-hub02.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-hub03.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-hub04.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-hub05.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sc-hub06.thefacebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "scgraph.facebook.com",
+        "ip": "10.110.143.20",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "secure-media-sf2p.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "secure-profile.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "secure.alpha.facebook.com",
+        "ip": "157.240.5.19",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "secure.beta.facebook.com",
+        "ip": "157.240.5.19",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "secure.dev.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "secure.facebook.com",
+        "ip": "157.240.5.21",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "secure.intern.facebook.com",
+        "ip": "157.240.5.23",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "secure.interninyour.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "secure.internmc.facebook.com",
+        "ip": "157.240.5.23",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "secure.internmcr.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "secure.inyour.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "secure.latest.facebook.com",
+        "ip": "157.240.5.19",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "secure.prod.facebook.com",
+        "ip": "157.240.5.21",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "secure.trunkstable.facebook.com",
+        "ip": "157.240.5.19",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "sha256.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "shadow.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "shortwave.facebook.com",
+        "ip": "157.240.5.15",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "sims.vvv.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "smtpin.mx.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "smtpin.vvv.facebook.com",
+        "ip": "66.220.149.251",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ssl.connect.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ssl.facebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "staging.scgraph.facebook.com",
+        "ip": "10.110.135.19",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "svn.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "symsrv.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "the--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "thefacebook.com",
+        "ip": "157.240.5.12",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "tihonoff@facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "tls13.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "trunkstable.facebook.com",
+        "ip": "157.240.5.5",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "up.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "v6.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "v6intern.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "webdisk.the--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "webmail.the--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.china--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.cinyourrc.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.clientsidetesticici.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.connect.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.dewey-lfs.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.dewey.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.facebook.com",
+        "ip": "157.240.5.35",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "www.gsstore.the--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.jenkins.presto.data.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.presto.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.proxygen-verifier.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.sims.vvv.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.svn.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.symsrv.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.the--facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.yocto-mirror.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "yocto-mirror.vip.facebook.com",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "z.facebook.com",
+        "ip": "157.240.5.38",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      }
+    ]
+  },
+  "fingerprint": {
+    "domain": "facebook.com",
+    "whois": {
+      "registrar": "RegistrarSafe, LLC",
+      "creation_date": "1997-03-29 05:00:00+00:00",
+      "expiration_date": "2034-03-30 04:00:00+00:00",
+      "name_servers": [
+        "A.NS.FACEBOOK.COM",
+        "B.NS.FACEBOOK.COM",
+        "C.NS.FACEBOOK.COM",
+        "D.NS.FACEBOOK.COM"
+      ],
+      "org": "Meta Platforms, Inc.",
+      "emails": [
+        "abusecomplaints@registrarsafe.com",
+        "domain@fb.com"
+      ]
+    },
+    "targets_fingerprinted": [
+      {
+        "host": "facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "alpha.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "api.facebook.com",
+        "final_url": "https://api.facebook.com/",
+        "status_code": 403,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "beta.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "bigzipfiles.facebook.com",
+        "final_url": "https://bigzipfiles.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "connect.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "cstools.facebook.com",
+        "final_url": "https://cstools.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "extern.facebook.com",
+        "final_url": "https://extern.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "fb.alpha.facebook.com",
+        "final_url": "https://fb.alpha.workplace.com/work/landing/input/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "fb.beta.facebook.com",
+        "final_url": "https://fb.beta.workplace.com/work/landing/input/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "fb.m.alpha.facebook.com",
+        "final_url": "https://fb.alpha.workplace.com/work/landing/input/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "fb.m.beta.facebook.com",
+        "final_url": "https://fb.beta.workplace.com/work/landing/input/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "intern.facebook.com",
+        "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fintern.facebook.com%2F",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "internmc.facebook.com",
+        "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Finternmc.facebook.com%2F",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "latest.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "lite.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "login.beta.facebook.com",
+        "final_url": "https://login.beta.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "login.facebook.com",
+        "final_url": "https://login.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "m.alpha.facebook.com",
+        "final_url": "https://www.alpha.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "m.beta.facebook.com",
+        "final_url": "https://www.beta.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "m.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "m.intern.facebook.com",
+        "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fm.intern.facebook.com%2F",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "m.internmc.facebook.com",
+        "final_url": "https://www.facebook.com/login/?next=https%3A%2F%2Fm.internmc.facebook.com%2F",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "m.prod.facebook.com",
+        "final_url": "https://www.prod.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "p.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "prod.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "register.facebook.com",
+        "final_url": "https://register.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "register.new.facebook.com",
+        "final_url": "https://register.new.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "secure.alpha.facebook.com",
+        "final_url": "https://secure.alpha.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "secure.beta.facebook.com",
+        "final_url": "https://secure.beta.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "secure.facebook.com",
+        "final_url": "https://secure.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "secure.intern.facebook.com",
+        "final_url": "https://secure.internmc.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "secure.internmc.facebook.com",
+        "final_url": "https://secure.internmc.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "secure.latest.facebook.com",
+        "final_url": "https://secure.latest.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "secure.prod.facebook.com",
+        "final_url": "https://secure.prod.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "secure.trunkstable.facebook.com",
+        "final_url": "https://secure.trunkstable.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "shortwave.facebook.com",
+        "final_url": "https://shortwave.facebook.com/",
+        "status_code": 404,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "ssl.facebook.com",
+        "final_url": "https://ssl.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "thefacebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "trunkstable.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "www.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "z.facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      }
+    ]
+  },
+  "osint": {
+    "domain": "facebook.com",
+    "company_name": "facebook",
+    "theharvester": {
+      "error": null,
+      "emails": [],
+      "hosts": []
+    },
+    "sherlock": {
+      "error": null,
+      "results": {
+        "Abdellah el yazidi": [
+          "https://www.7cups.com/@Abdellah%20el%20yazidi",
+          "https://www.airliners.net/user/Abdellah%20el%20yazidi/profile/photos",
+          "https://developer.apple.com/forums/profile/Abdellah%20el%20yazidi",
+          "https://discussions.apple.com/profile/Abdellah%20el%20yazidi",
+          "https://archive.org/details/@Abdellah%20el%20yazidi",
+          "https://cyberdefenders.org/p/Abdellah%20el%20yazidi",
+          "https://discord.com",
+          "https://forums.envato.com/u/Abdellah%20el%20yazidi",
+          "https://f3.cool/Abdellah%20el%20yazidi/",
+          "https://freelance.habr.com/freelancers/Abdellah%20el%20yazidi",
+          "https://auth.geeksforgeeks.org/user/Abdellah%20el%20yazidi",
+          "https://giphy.com/Abdellah%20el%20yazidi",
+          "https://hackerearth.com/@Abdellah%20el%20yazidi",
+          "https://hashnode.com/@Abdellah%20el%20yazidi",
+          "https://hubski.com/user/Abdellah%20el%20yazidi",
+          "https://www.kaskus.co.id/@Abdellah%20el%20yazidi",
+          "https://www.lesswrong.com/users/@Abdellah%20el%20yazidi",
+          "https://www.mydramalist.com/profile/Abdellah%20el%20yazidi",
+          "https://forums.pcgamer.com/members/?username=Abdellah%20el%20yazidi",
+          "https://www.pepper.it/profile/Abdellah%20el%20yazidi/overview",
+          "https://rarible.com/marketplace/api/v4/urls/Abdellah%20el%20yazidi",
+          "https://www.reddit.com/user/Abdellah%20el%20yazidi",
+          "https://replit.com/@Abdellah%20el%20yazidi",
+          "https://www.roblox.com/user.aspx?username=Abdellah%20el%20yazidi",
+          "https://slideshare.net/Abdellah%20el%20yazidi",
+          "https://splice.com/Abdellah%20el%20yazidi",
+          "https://open.spotify.com/user/Abdellah%20el%20yazidi",
+          "https://www.trakt.tv/users/Abdellah%20el%20yazidi",
+          "https://forum.velomania.ru/member.php?username=Abdellah%20el%20yazidi",
+          "https://music.yandex/users/Abdellah%20el%20yazidi/playlists",
+          "http://www.authorstream.com/Abdellah%20el%20yazidi/",
+          "https://www.dailykos.com/user/Abdellah%20el%20yazidi",
+          "http://forum.igromania.ru/member.php?username=Abdellah%20el%20yazidi",
+          "https://www.interpals.net/Abdellah%20el%20yazidi",
+          "https://www.mercadolivre.com.br/perfil/Abdellah%20el%20yazidi",
+          "https://Abdellah%20el%20yazidi.omg.lol",
+          "https://www.opennet.ru/~Abdellah%20el%20yazidi",
+          "https://php.ru/forum/members/?username=Abdellah%20el%20yazidi",
+          "https://www.svidbook.ru/user/Abdellah%20el%20yazidi",
+          "https://www.threads.net/@Abdellah%20el%20yazidi"
+        ]
+      }
+    },
+    "linkedin_dorks": [
+      "site:linkedin.com/in \"facebook\"",
+      "site:linkedin.com/in \"facebook\" \"IT\" OR \"sysadmin\" OR \"security\"",
+      "site:linkedin.com/company \"facebook\"",
+      "\"facebook.com\" site:linkedin.com",
+      "\"@facebook.com\" -site:linkedin.com",
+      "site:github.com \"facebook.com\"",
+      "site:pastebin.com \"facebook.com\""
+    ]
+  },
+  "credentials": {
+    "password_checks": [
+      {
+        "password_masked": "M******3",
+        "error": null,
+        "count": 0,
+        "compromised": false
+      }
+    ],
+    "email_notes": [],
+    "local_corpus_matches": {
+      "error": null,
+      "matches": []
+    }
+  }
+}

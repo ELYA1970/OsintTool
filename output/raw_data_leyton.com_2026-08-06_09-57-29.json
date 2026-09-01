@@ -1,0 +1,75 @@
+{
+  "domain": "leyton.com",
+  "subdomains": {
+    "domain": "leyton.com",
+    "gobuster_error": null,
+    "total_found": 0,
+    "subdomains": []
+  },
+  "fingerprint": {
+    "domain": "leyton.com",
+    "whois": {
+      "registrar": "Namebay",
+      "creation_date": "[datetime.datetime(1997, 9, 17, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(1997, 9, 17, 0, 0, tzinfo=datetime.timezone.utc)]",
+      "expiration_date": "[datetime.datetime(2027, 9, 16, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2027, 9, 16, 0, 0, tzinfo=datetime.timezone.utc)]",
+      "name_servers": [
+        "NS1.VIADUC-DNS.FR",
+        "NS2.VIADUC-DNS.FR"
+      ],
+      "org": "REDACTED FOR PRIVACY",
+      "emails": "abuse@namebay.com"
+    },
+    "targets_fingerprinted": [
+      {
+        "host": "leyton.com",
+        "final_url": "https://leyton.com/ma/",
+        "status_code": 200,
+        "server_header": "nginx/1.24.0 (Ubuntu)",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [
+          "WordPress",
+          "jQuery"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      }
+    ]
+  },
+  "osint": {
+    "domain": "leyton.com",
+    "company_name": "LEYTON",
+    "theharvester": {
+      "error": null,
+      "emails": [],
+      "hosts": []
+    },
+    "sherlock": {
+      "error": null,
+      "results": {}
+    },
+    "linkedin_dorks": [
+      "site:linkedin.com/in \"LEYTON\"",
+      "site:linkedin.com/in \"LEYTON\" \"IT\" OR \"sysadmin\" OR \"security\"",
+      "site:linkedin.com/company \"LEYTON\"",
+      "\"leyton.com\" site:linkedin.com",
+      "\"@leyton.com\" -site:linkedin.com",
+      "site:github.com \"leyton.com\"",
+      "site:pastebin.com \"leyton.com\""
+    ]
+  },
+  "credentials": {
+    "password_checks": [],
+    "email_notes": [],
+    "local_corpus_matches": {
+      "error": null,
+      "matches": []
+    }
+  }
+}

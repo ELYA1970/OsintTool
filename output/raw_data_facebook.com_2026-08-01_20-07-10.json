@@ -1,0 +1,127 @@
+{
+  "domain": "facebook.com",
+  "subdomains": {
+    "domain": "facebook.com",
+    "gobuster_error": null,
+    "total_found": 0,
+    "subdomains": []
+  },
+  "fingerprint": {
+    "domain": "facebook.com",
+    "whois": {
+      "registrar": "RegistrarSafe, LLC",
+      "creation_date": "1997-03-29 05:00:00+00:00",
+      "expiration_date": "2034-03-30 04:00:00+00:00",
+      "name_servers": [
+        "A.NS.FACEBOOK.COM",
+        "B.NS.FACEBOOK.COM",
+        "C.NS.FACEBOOK.COM",
+        "D.NS.FACEBOOK.COM"
+      ],
+      "org": "Meta Platforms, Inc.",
+      "emails": [
+        "abusecomplaints@registrarsafe.com",
+        "domain@fb.com"
+      ]
+    },
+    "targets_fingerprinted": [
+      {
+        "host": "facebook.com",
+        "final_url": "https://www.facebook.com/",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      }
+    ]
+  },
+  "osint": {
+    "domain": "facebook.com",
+    "company_name": "facebook",
+    "theharvester": {
+      "error": null,
+      "emails": [],
+      "hosts": []
+    },
+    "sherlock": {
+      "error": null,
+      "results": {
+        "Abdellah el yazidi": [
+          "https://www.7cups.com/@Abdellah%20el%20yazidi",
+          "https://www.airliners.net/user/Abdellah%20el%20yazidi/profile/photos",
+          "https://developer.apple.com/forums/profile/Abdellah%20el%20yazidi",
+          "https://discussions.apple.com/profile/Abdellah%20el%20yazidi",
+          "https://archive.org/details/@Abdellah%20el%20yazidi",
+          "https://cyberdefenders.org/p/Abdellah%20el%20yazidi",
+          "https://discord.com",
+          "https://forums.envato.com/u/Abdellah%20el%20yazidi",
+          "https://f3.cool/Abdellah%20el%20yazidi/",
+          "https://freelance.habr.com/freelancers/Abdellah%20el%20yazidi",
+          "https://auth.geeksforgeeks.org/user/Abdellah%20el%20yazidi",
+          "https://giphy.com/Abdellah%20el%20yazidi",
+          "https://hackerearth.com/@Abdellah%20el%20yazidi",
+          "https://hashnode.com/@Abdellah%20el%20yazidi",
+          "https://hubski.com/user/Abdellah%20el%20yazidi",
+          "https://www.kaskus.co.id/@Abdellah%20el%20yazidi",
+          "https://www.lesswrong.com/users/@Abdellah%20el%20yazidi",
+          "https://www.mydramalist.com/profile/Abdellah%20el%20yazidi",
+          "https://forums.pcgamer.com/members/?username=Abdellah%20el%20yazidi",
+          "https://www.pepper.it/profile/Abdellah%20el%20yazidi/overview",
+          "https://rarible.com/marketplace/api/v4/urls/Abdellah%20el%20yazidi",
+          "https://www.reddit.com/user/Abdellah%20el%20yazidi",
+          "https://replit.com/@Abdellah%20el%20yazidi",
+          "https://www.roblox.com/user.aspx?username=Abdellah%20el%20yazidi",
+          "https://slideshare.net/Abdellah%20el%20yazidi",
+          "https://splice.com/Abdellah%20el%20yazidi",
+          "https://open.spotify.com/user/Abdellah%20el%20yazidi",
+          "https://www.trakt.tv/users/Abdellah%20el%20yazidi",
+          "https://forum.velomania.ru/member.php?username=Abdellah%20el%20yazidi",
+          "https://music.yandex/users/Abdellah%20el%20yazidi/playlists",
+          "http://www.authorstream.com/Abdellah%20el%20yazidi/",
+          "https://www.dailykos.com/user/Abdellah%20el%20yazidi",
+          "http://forum.igromania.ru/member.php?username=Abdellah%20el%20yazidi",
+          "https://www.interpals.net/Abdellah%20el%20yazidi",
+          "https://www.mercadolivre.com.br/perfil/Abdellah%20el%20yazidi",
+          "https://Abdellah%20el%20yazidi.omg.lol",
+          "https://www.opennet.ru/~Abdellah%20el%20yazidi",
+          "https://php.ru/forum/members/?username=Abdellah%20el%20yazidi",
+          "https://www.svidbook.ru/user/Abdellah%20el%20yazidi",
+          "https://www.threads.net/@Abdellah%20el%20yazidi"
+        ]
+      }
+    },
+    "linkedin_dorks": [
+      "site:linkedin.com/in \"facebook\"",
+      "site:linkedin.com/in \"facebook\" \"IT\" OR \"sysadmin\" OR \"security\"",
+      "site:linkedin.com/company \"facebook\"",
+      "\"facebook.com\" site:linkedin.com",
+      "\"@facebook.com\" -site:linkedin.com",
+      "site:github.com \"facebook.com\"",
+      "site:pastebin.com \"facebook.com\""
+    ]
+  },
+  "credentials": {
+    "password_checks": [
+      {
+        "password_masked": "M******3",
+        "error": null,
+        "count": 0,
+        "compromised": false
+      }
+    ],
+    "email_notes": [],
+    "local_corpus_matches": {
+      "error": null,
+      "matches": []
+    }
+  }
+}

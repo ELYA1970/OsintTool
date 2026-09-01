@@ -1,0 +1,2625 @@
+{
+  "domain": "smile.eu",
+  "subdomains": {
+    "domain": "smile.eu",
+    "gobuster_error": null,
+    "total_found": 137,
+    "subdomains": [
+      {
+        "subdomain": "agency.smile.eu",
+        "ip": "195.54.62.139",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "anwb-test-js.netherlands.smile.eu",
+        "ip": "185.21.152.150",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "anwb-test-media.netherlands.smile.eu",
+        "ip": "185.21.152.150",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "anwb-test-skin.netherlands.smile.eu",
+        "ip": "185.21.152.150",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "anwb-test.netherlands.smile.eu",
+        "ip": "185.21.152.150",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "anwb-uat-js.netherlands.smile.eu",
+        "ip": "185.21.152.149",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "anwb-uat-media.netherlands.smile.eu",
+        "ip": "185.21.152.149",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "anwb-uat-skin.netherlands.smile.eu",
+        "ip": "185.21.152.149",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "anwb-uat.netherlands.smile.eu",
+        "ip": "185.21.152.149",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "auth-pp.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "autoconfig.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "autoconfig.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "autodiscover.ethos.smile.eu",
+        "ip": "148.253.123.127",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "autodiscover.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "beta-dammhdq2p6u.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "beta.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "blog.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "blom.smile.eu",
+        "ip": "195.54.62.139",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "bluemind.ethos.smile.eu",
+        "ip": "148.253.123.127",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "bluemind.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "click-close.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "click-learn.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "cloud.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "cloud.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "collabora.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "demo-factory-test.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "demo-factory.smile.eu",
+        "ip": "145.239.192.138",
+        "http": true,
+        "https": false,
+        "status_code": 200
+      },
+      {
+        "subdomain": "demo.smile.eu",
+        "ip": "145.239.192.138",
+        "http": true,
+        "https": false,
+        "status_code": 200
+      },
+      {
+        "subdomain": "dicom.k8s.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "dl.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "docs.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "docs.k8s.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "dozzle.k8s.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "dozzle.k8s.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "dozzle.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "emails.smile.eu",
+        "ip": "199.60.103.254",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "eot.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ethos.smile.eu",
+        "ip": "148.253.123.127",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "flexoffice.smile.eu",
+        "ip": "104.16.219.83",
+        "http": true,
+        "https": false,
+        "status_code": 409
+      },
+      {
+        "subdomain": "fullbiz.smile.eu",
+        "ip": "195.54.62.145",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "gerrit-ecs.smile.eu",
+        "ip": "195.54.62.139",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "gescom-be.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-ch.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-corp.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-creativestyle-de.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-creativestyle-pl.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-es.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-international.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-lu.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-ma.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-nl.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-poland.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-prod-galaxy.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-sgh.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-sw.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-symfony.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-synotis.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-training-2.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-training.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "gescom-ua.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "glpi.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "headlamp.k8s.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "headlamp.k8s.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "id.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "id.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "id.prosante.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "info.smile.eu",
+        "ip": "199.60.103.2",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "ingress.k8s.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "innovation.smile.eu",
+        "ip": "18.172.213.15",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "jobs-pp.smile.eu",
+        "ip": "207.120.36.43",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "jobs.smile.eu",
+        "ip": "207.120.36.7",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "live.suntriptour.smile.eu",
+        "ip": "195.54.63.41",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "mail.ethos.smile.eu",
+        "ip": "148.253.123.127",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "mail.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "mailgw.k8s.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "member-test-be-fr-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "member-test-be-nl-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "member-test-de-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "member-test-es-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "member-test-fr-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "member-test-lu-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "member-test-nl-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "nextcloud.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "nextcloud.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "office.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "office.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "ohif.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "old-blog.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "old-site.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ops-dev.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ops-front1.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ops-front2.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ops-preprod.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ops-secours.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ops.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "owncloud-test.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "owncloud.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "pgadmin.k8s.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "portal.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "portal.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "portal.prosante.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "pp.smile.eu",
+        "ip": "195.54.63.42",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "preprod-live.suntriptour.smile.eu",
+        "ip": "195.54.63.42",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "prod.smile.eu",
+        "ip": "195.54.63.43",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "scim.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "signaling.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "signature.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "signature2.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "sso-pp.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "sso.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "stalwart.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 503
+      },
+      {
+        "subdomain": "start.smile.eu",
+        "ip": "185.158.133.1",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "status.smile.eu",
+        "ip": "142.132.149.97",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "stm.smile.eu",
+        "ip": "34.144.218.107",
+        "http": false,
+        "https": true,
+        "status_code": 400
+      },
+      {
+        "subdomain": "suntriptour-pp.smile.eu",
+        "ip": "195.54.63.42",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "suntriptour.smile.eu",
+        "ip": "195.54.63.41",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "supowo.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "t.smile.eu",
+        "ip": "195.54.62.145",
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "talk.k8s.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "talk.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "tech.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "temp.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "tr.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "ux-republic.com.smile.eu",
+        "ip": "199.60.103.2",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "vault.k8s.ethos.smile.eu",
+        "ip": "148.253.83.240",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      },
+      {
+        "subdomain": "vault.k8s.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "vault.pp.da.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 404
+      },
+      {
+        "subdomain": "webconsole.demo-factory.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.member-test-be-fr-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.member-test-be-nl-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.member-test-de-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.member-test-es-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.member-test-fr-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.member-test-lu-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.member-test-nl-msmode.netherlands.smile.eu",
+        "ip": null,
+        "http": false,
+        "https": false,
+        "status_code": null
+      },
+      {
+        "subdomain": "www.smile.eu",
+        "ip": "145.239.192.138",
+        "http": false,
+        "https": true,
+        "status_code": 200
+      }
+    ]
+  },
+  "fingerprint": {
+    "domain": "smile.eu",
+    "whois": {
+      "registrar": "GANDI",
+      "creation_date": "None",
+      "expiration_date": "None",
+      "name_servers": "ns-76-a.gandi.net\n        ns-161-b.gandi.net\n        ns-50-c.gandi.net\n\nPlease visit www.eurid.eu for more info.",
+      "org": null,
+      "emails": null
+    },
+    "targets_fingerprinted": [
+      {
+        "host": "smile.eu",
+        "final_url": "https://smile.eu/fr",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [
+          "Cloudflare",
+          "Drupal"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "autoconfig.ethos.smile.eu",
+        "final_url": "https://autoconfig.ethos.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx/1.27.5",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "autoconfig.pp.da.smile.eu",
+        "final_url": "https://autoconfig.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "autodiscover.ethos.smile.eu",
+        "final_url": "https://id.ethos.smile.eu/realms/ethos/protocol/openid-connect/auth?client_id=bluemind&redirect_uri=https%3A%2F%2Fautodiscover.ethos.smile.eu%2Fauth%2Fopenid&code_challenge=mlGeMYEUj0XuCSFPRisIwT_MSTMzKzossnsXFgi-1m0&state=eyJjb2RlVmVyaWZpZXJLZXkiOiJhNGYxZGM2YS1lYjA3LTRiOWMtYTk3OS03MWIzZWNkMmUyNTIiLCJwYXRoIjoiLyIsImRvbWFpbl91aWQiOiIzYjBhMTA3Ny5pbnRlcm5hbCJ9&code_challenge_method=S256&response_type=code&scope=openid",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [
+          "KC_STATE_CHECKER"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "autodiscover.pp.da.smile.eu",
+        "final_url": "https://autodiscover.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "beta.smile.eu",
+        "final_url": "https://smile.eu/fr",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [
+          "Cloudflare",
+          "Drupal"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "blog.smile.eu",
+        "final_url": "https://smile.eu/fr",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [
+          "Cloudflare",
+          "Drupal"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "bluemind.ethos.smile.eu",
+        "final_url": "https://bluemind.ethos.smile.eu/keycloak/realms/global.virt/protocol/openid-connect/auth?client_id=global.virt-cli&redirect_uri=https%3A%2F%2Fbluemind.ethos.smile.eu%2Fauth%2Fopenid&code_challenge=tdxGPzJTgMQXAa2qcahnSFhCf6xQZ2WaZRyJFQ7Abm8&state=eyJjb2RlVmVyaWZpZXJLZXkiOiIyZjcxZTBhMS1lNDk5LTQ1MjAtOTMyYy03Mjg4OTUyNDIxODkiLCJwYXRoIjoiLyIsImRvbWFpbl91aWQiOiJnbG9iYWwudmlydCJ9&code_challenge_method=S256&response_type=code&scope=openid",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "bluemind.pp.da.smile.eu",
+        "final_url": "https://bluemind.pp.da.smile.eu/keycloak/realms/global.virt/protocol/openid-connect/auth?client_id=global.virt-cli&redirect_uri=https%3A%2F%2Fbluemind.pp.da.smile.eu%2Fauth%2Fopenid&code_challenge=ef0UwwPodbQ-E9vvBJ6RXsY7KHkftsFysFBUEOvkYA4&state=8999909b-540e-425f-9328-abb26b9769b6&code_challenge_method=S256&response_type=code&scope=openid",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "click-close.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?state=21d0f95d143cbd0d0a78d863c763980a&scope=profile%20email%20openid&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fclick-learn.smile.eu%2Foauth%2Fcheck&client_id=click-and-close",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "click-learn.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?state=ccb2e5b07047775ff2775f0db6876e2d&scope=profile%20email%20openid&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fclick-learn.smile.eu%2Foauth%2Fcheck&client_id=click-and-close",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "cloud.ethos.smile.eu",
+        "final_url": "https://id.ethos.smile.eu/realms/ethos/protocol/openid-connect/auth?client_id=nextcloud&response_type=code&scope=openid+email+profile&redirect_uri=https%3A%2F%2Fcloud.ethos.smile.eu%2Fapps%2Fuser_oidc%2Fcode&claims=%7B%22id_token%22%3A%7B%22email%22%3Anull%2C%22name%22%3Anull%2C%22quota%22%3Anull%2C%22groups%22%3Anull%2C%22preferred_username%22%3A%7B%22essential%22%3Atrue%7D%7D%2C%22userinfo%22%3A%7B%22email%22%3Anull%2C%22name%22%3Anull%2C%22quota%22%3Anull%2C%22groups%22%3Anull%2C%22preferred_username%22%3A%7B%22essential%22%3Atrue%7D%7D%7D&state=U61BR8WHGOLO3UWLYO7K2F0D460TO0WK&nonce=Q5LHC5KXSDMVOZBNO1AQLSO8QZAXGOJZ&code_challenge=K_j4fSDxm1NAgHyiXIhtzxrA4AZKTIyNojnrEobh2Pc&code_challenge_method=S256",
+        "status_code": 200,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "cloud.pp.da.smile.eu",
+        "final_url": "https://cloud.pp.da.smile.eu/login",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": "PHP/8.4.22",
+        "cookies": [
+          "ocicahfjd5db"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "collabora.ethos.smile.eu",
+        "final_url": "https://collabora.ethos.smile.eu/",
+        "status_code": 200,
+        "server_header": "",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "demo-factory.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?state=effa3a6bde9487d0b5007868aef1523d&scope=profile%20email%20openid&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fdashboard.demo.smile.eu%2Foauth%2Fcheck&client_id=demo-factory",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "demo.smile.eu",
+        "final_url": "https://demo.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "dicom.k8s.ethos.smile.eu",
+        "final_url": "https://dicom.k8s.ethos.smile.eu/",
+        "status_code": 404,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "dl.smile.eu",
+        "final_url": "https://dl.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "docs.ethos.smile.eu",
+        "final_url": "https://docs.ethos.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx/1.31.2",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "docs.k8s.ethos.smile.eu",
+        "final_url": "https://docs.k8s.ethos.smile.eu/",
+        "status_code": 404,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "dozzle.k8s.ethos.smile.eu",
+        "final_url": "https://dozzle.k8s.ethos.smile.eu/login?redirectUrl=/",
+        "status_code": 200,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "dozzle.k8s.pp.da.smile.eu",
+        "final_url": "https://dozzle.k8s.pp.da.smile.eu/login?redirectUrl=/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "dozzle.pp.da.smile.eu",
+        "final_url": "https://dozzle.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "emails.smile.eu",
+        "final_url": "https://emails.smile.eu/",
+        "status_code": 404,
+        "server_header": "cloudflare",
+        "x_powered_by": null,
+        "cookies": [
+          "__cf_bm",
+          "_cfuvid"
+        ],
+        "technologies_detected": [
+          "Cloudflare"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "ethos.smile.eu",
+        "final_url": "https://id.ethos.smile.eu/realms/ethos/protocol/openid-connect/auth?client_id=bluemind&redirect_uri=https%3A%2F%2Fethos.smile.eu%2Fauth%2Fopenid&code_challenge=aVKyM6UptgpkJOj1iBy8O5lSZ3r3itNCKL625AhmMqs&state=eyJjb2RlVmVyaWZpZXJLZXkiOiI5MDAzOTFhNC1hNTEyLTRkMTUtOThmOS04MTBhZjkxMzA3NmUiLCJwYXRoIjoiLyIsImRvbWFpbl91aWQiOiIzYjBhMTA3Ny5pbnRlcm5hbCJ9&code_challenge_method=S256&response_type=code&scope=openid",
+        "status_code": 400,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [
+          "KC_STATE_CHECKER"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "flexoffice.smile.eu",
+        "final_url": "http://flexoffice.smile.eu/",
+        "status_code": 409,
+        "server_header": "cloudflare",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [
+          "Cloudflare"
+        ],
+        "tls": {
+          "error": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1033)"
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-be.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-be.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1iZS5zbWlsZS5ldS8=",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-ch.smile.eu",
+        "final_url": "https://gescom-ch.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": "ASP.NET",
+        "cookies": [],
+        "technologies_detected": [
+          "IIS (via contenu par d\u00e9faut)"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-corp.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-corp.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1jb3JwLnNtaWxlLmV1Lw==",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-creativestyle-de.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-creativestyle-de.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1jcmVhdGl2ZXN0eWxlLWRlLnNtaWxlLmV1Lw==",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-creativestyle-pl.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-creativestyle-pl.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1jcmVhdGl2ZXN0eWxlLXBsLnNtaWxlLmV1Lw==",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-es.smile.eu",
+        "final_url": "https://gescom-es.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": "ASP.NET",
+        "cookies": [],
+        "technologies_detected": [
+          "IIS (via contenu par d\u00e9faut)"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-international.smile.eu",
+        "final_url": "https://gescom-international.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": "ASP.NET",
+        "cookies": [],
+        "technologies_detected": [
+          "IIS (via contenu par d\u00e9faut)"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-lu.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-lu.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1sdS5zbWlsZS5ldS8=",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-ma.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom.smile.ma/home/callback&state=aHR0cDovL2dlc2NvbS1tYS5zbWlsZS5ldS8=",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-nl.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-nl.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1ubC5zbWlsZS5ldS8=",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-poland.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-poland.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1wb2xhbmQuc21pbGUuZXUv",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-prod-galaxy.smile.eu",
+        "final_url": "https://gescom-prod-galaxy.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": "ASP.NET",
+        "cookies": [],
+        "technologies_detected": [
+          "IIS (via contenu par d\u00e9faut)"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-sgh.smile.eu",
+        "final_url": "https://gescom-sgh.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": "ASP.NET",
+        "cookies": [],
+        "technologies_detected": [
+          "IIS (via contenu par d\u00e9faut)"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-sw.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-sw.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1zdy5zbWlsZS5ldS8=",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-symfony.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-symfony.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1zeW1mb255LnNtaWxlLmV1Lw==",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-synotis.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-synotis.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS1zeW5vdGlzLnNtaWxlLmV1Lw==",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-training-2.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-training-2.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS10cmFpbmluZy0yLnNtaWxlLmV1Lw==",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-training.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-training.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS10cmFpbmluZy5zbWlsZS5ldS8=",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "gescom-ua.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=KC_Gescom&response_type=code&scope=openid&redirect_uri=https://gescom-ua.smile.eu/home/callback&state=aHR0cDovL2dlc2NvbS11YS5zbWlsZS5ldS8=",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "glpi.ethos.smile.eu",
+        "final_url": "https://glpi.ethos.smile.eu/",
+        "status_code": 200,
+        "server_header": "Apache",
+        "x_powered_by": null,
+        "cookies": [
+          "glpi_6b2bd4d8a7772847210a07a63d8997a9d13d7c2bf19bb9aefddb35bec8f400042affb0bac85bf312d0a4a52f34c159c58227743f70c0f1e3d0a9cdbbe3b9013d"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "headlamp.k8s.ethos.smile.eu",
+        "final_url": "https://headlamp.k8s.ethos.smile.eu/",
+        "status_code": 200,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "headlamp.k8s.pp.da.smile.eu",
+        "final_url": "https://headlamp.k8s.pp.da.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "id.ethos.smile.eu",
+        "final_url": "https://id.ethos.smile.eu/",
+        "status_code": 404,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "id.pp.da.smile.eu",
+        "final_url": "https://id.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "id.prosante.smile.eu",
+        "final_url": "https://id.prosante.smile.eu/",
+        "status_code": 404,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "info.smile.eu",
+        "final_url": "https://info.smile.eu/webinar.odoo",
+        "status_code": 200,
+        "server_header": "cloudflare",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [
+          "Cloudflare"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "ingress.k8s.pp.da.smile.eu",
+        "final_url": "https://ingress.k8s.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "innovation.smile.eu",
+        "final_url": "https://innovation.smile.eu/",
+        "status_code": 200,
+        "server_header": "AmazonS3",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "jobs-pp.smile.eu",
+        "final_url": "https://jobs-pp.smile.eu/",
+        "status_code": 404,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "jobs.smile.eu",
+        "final_url": "https://jobs.smile.eu/",
+        "status_code": 200,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "mail.ethos.smile.eu",
+        "final_url": "https://id.ethos.smile.eu/realms/ethos/protocol/openid-connect/auth?client_id=bluemind&redirect_uri=https%3A%2F%2Fmail.ethos.smile.eu%2Fauth%2Fopenid&code_challenge=Ijwzf0ABpDAiTkXWu65_l7KIBq1WRrFvnrY4X3kRapM&state=eyJjb2RlVmVyaWZpZXJLZXkiOiI3ZTIwZmNmNS1lZTA2LTRhYTEtYjNkYy0wMTkxOWY1ODUwYjAiLCJwYXRoIjoiLyIsImRvbWFpbl91aWQiOiIzYjBhMTA3Ny5pbnRlcm5hbCJ9&code_challenge_method=S256&response_type=code&scope=openid",
+        "status_code": 200,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "mail.pp.da.smile.eu",
+        "final_url": "https://sso-pp.smile.eu/realms/Smile/protocol/openid-connect/auth?client_id=bluemind-pp&redirect_uri=https%3A%2F%2Fmail.pp.da.smile.eu%2Fauth%2Fopenid&code_challenge=bLg6j6WZGlgKUTPuoBUjZ3ejl6ZOvmPhhcP6EWgvjIo&state=94cfd3fb-770f-4d8f-8dc9-463114430c15&code_challenge_method=S256&response_type=code&scope=openid",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "KEYCLOAK_AFFINITY",
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "mailgw.k8s.ethos.smile.eu",
+        "final_url": "https://mailgw.k8s.ethos.smile.eu/",
+        "status_code": 200,
+        "server_header": "pve-api-daemon/3.0",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "nextcloud.pp.da.smile.eu",
+        "final_url": "https://nextcloud.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "nextcloud.smile.eu",
+        "final_url": "https://nextcloud.smile.eu/index.php/login",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "ocicahfjd5db"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "office.pp.da.smile.eu",
+        "final_url": "https://office.pp.da.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "office.smile.eu",
+        "final_url": "https://office.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "ohif.ethos.smile.eu",
+        "final_url": "https://ohif.ethos.smile.eu/",
+        "status_code": 200,
+        "server_header": "nginx/1.25.5",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "old-blog.smile.eu",
+        "final_url": "https://old-blog.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "pgadmin.k8s.pp.da.smile.eu",
+        "final_url": "https://pgadmin.k8s.pp.da.smile.eu/login?next=/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "pga4_session"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "portal.ethos.smile.eu",
+        "final_url": "https://portal.ethos.smile.eu/univention/portal/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "portal.pp.da.smile.eu",
+        "final_url": "https://portal.pp.da.smile.eu/univention/portal/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "portal.prosante.smile.eu",
+        "final_url": "https://portal.prosante.smile.eu/univention/portal/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "scim.pp.da.smile.eu",
+        "final_url": "https://scim.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "signaling.smile.eu",
+        "final_url": "https://signaling.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "signature.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/protocol/openid-connect/auth?response_type=code&scope=openid&client_id=signature&state=zpwB6VDn2Tiqw2rDPjsXjpTYJGc&redirect_uri=https%3A%2F%2Fsignature.smile.eu%2Fcallback&nonce=rznBbiqaXVvAIkqYFM_CgLys5oX0yi0KqCv3D3N1AAU",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "AUTH_SESSION_ID",
+          "KC_AUTH_SESSION_HASH",
+          "KC_RESTART"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "sso-pp.smile.eu",
+        "final_url": "https://sso-pp.smile.eu/realms/Smile/account/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [
+          "KEYCLOAK_AFFINITY"
+        ],
+        "technologies_detected": [
+          "React"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "sso.smile.eu",
+        "final_url": "https://sso.smile.eu/realms/Smile/account/",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [
+          "React"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "stalwart.pp.da.smile.eu",
+        "final_url": "https://stalwart.pp.da.smile.eu/",
+        "status_code": 503,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "start.smile.eu",
+        "final_url": "https://start.smile.eu/",
+        "status_code": 200,
+        "server_header": "cloudflare",
+        "x_powered_by": null,
+        "cookies": [
+          "__cf_bm"
+        ],
+        "technologies_detected": [
+          "Cloudflare"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "status.smile.eu",
+        "final_url": "https://status.smile.eu/",
+        "status_code": 200,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [
+          "XSRF-TOKEN",
+          "psp_session",
+          "XXxeghMdQODB2mE0ohFlZ90UfkcenhL4O90SCT7W"
+        ],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "stm.smile.eu",
+        "final_url": "https://stm.smile.eu/",
+        "status_code": 400,
+        "server_header": "Google Frontend",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "talk.k8s.ethos.smile.eu",
+        "final_url": "https://talk.k8s.ethos.smile.eu/",
+        "status_code": 404,
+        "server_header": null,
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "talk.pp.da.smile.eu",
+        "final_url": "https://talk.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "tech.smile.eu",
+        "final_url": "https://tech.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "ux-republic.com.smile.eu",
+        "final_url": "https://ux-republic.com.smile.eu/",
+        "status_code": 404,
+        "server_header": "cloudflare",
+        "x_powered_by": null,
+        "cookies": [
+          "__cf_bm",
+          "_cfuvid"
+        ],
+        "technologies_detected": [
+          "Cloudflare"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "vault.k8s.ethos.smile.eu",
+        "final_url": "https://vault.k8s.ethos.smile.eu/",
+        "status_code": 200,
+        "server_header": "Rocket",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "vault.k8s.pp.da.smile.eu",
+        "final_url": "https://vault.k8s.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "vault.pp.da.smile.eu",
+        "final_url": "https://vault.pp.da.smile.eu/",
+        "status_code": 404,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      },
+      {
+        "host": "www.smile.eu",
+        "final_url": "https://smile.eu/fr",
+        "status_code": 200,
+        "server_header": "nginx",
+        "x_powered_by": null,
+        "cookies": [],
+        "technologies_detected": [
+          "Cloudflare",
+          "Drupal"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      }
+    ]
+  },
+  "osint": {
+    "domain": "smile.eu",
+    "company_name": "SMILE",
+    "theharvester": {
+      "error": null,
+      "emails": [],
+      "hosts": []
+    },
+    "sherlock": {
+      "error": null,
+      "results": {}
+    },
+    "linkedin_dorks": [
+      "site:linkedin.com/in \"SMILE\"",
+      "site:linkedin.com/in \"SMILE\" \"IT\" OR \"sysadmin\" OR \"security\"",
+      "site:linkedin.com/company \"SMILE\"",
+      "\"smile.eu\" site:linkedin.com",
+      "\"@smile.eu\" -site:linkedin.com",
+      "site:github.com \"smile.eu\"",
+      "site:pastebin.com \"smile.eu\""
+    ]
+  },
+  "credentials": {
+    "password_checks": [],
+    "email_notes": [],
+    "local_corpus_matches": {
+      "error": null,
+      "matches": []
+    }
+  }
+}

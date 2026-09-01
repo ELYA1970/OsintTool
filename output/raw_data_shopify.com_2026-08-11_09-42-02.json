@@ -1,0 +1,90 @@
+{
+  "domain": "shopify.com",
+  "subdomains": {
+    "domain": "shopify.com",
+    "gobuster_error": null,
+    "total_found": 0,
+    "subdomains": []
+  },
+  "fingerprint": {
+    "domain": "shopify.com",
+    "whois": {
+      "registrar": "MarkMonitor, Inc.",
+      "creation_date": "2005-03-11 05:18:03+00:00",
+      "expiration_date": "[datetime.datetime(2027, 3, 11, 5, 18, 3, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2027, 3, 11, 0, 0, tzinfo=tzoffset('UTC', 0))]",
+      "name_servers": [
+        "GOLD.FOUNDATIONDNS.COM",
+        "GOLD.FOUNDATIONDNS.NET",
+        "GOLD.FOUNDATIONDNS.ORG"
+      ],
+      "org": "Shopify Inc.",
+      "emails": [
+        "abusecomplaints@markmonitor.com",
+        "whoisrequest@markmonitor.com"
+      ]
+    },
+    "targets_fingerprinted": [
+      {
+        "host": "shopify.com",
+        "final_url": "https://www.shopify.com/",
+        "status_code": 200,
+        "server_header": "cloudflare",
+        "x_powered_by": null,
+        "cookies": [
+          "_shopify_essential_",
+          "_shopify_s",
+          "_shopify_y"
+        ],
+        "technologies_detected": [
+          "Cloudflare",
+          "Shopify"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      }
+    ]
+  },
+  "osint": {
+    "domain": "shopify.com",
+    "company_name": "Shopify",
+    "theharvester": {
+      "error": null,
+      "emails": [],
+      "hosts": []
+    },
+    "sherlock": {
+      "error": null,
+      "results": {}
+    },
+    "linkedin_dorks": [
+      "site:linkedin.com/in \"Shopify\"",
+      "site:linkedin.com/in \"Shopify\" \"IT\" OR \"sysadmin\" OR \"security\"",
+      "site:linkedin.com/company \"Shopify\"",
+      "\"shopify.com\" site:linkedin.com",
+      "\"@shopify.com\" -site:linkedin.com",
+      "site:github.com \"shopify.com\"",
+      "site:pastebin.com \"shopify.com\""
+    ]
+  },
+  "credentials": {
+    "password_checks": [
+      {
+        "password_masked": "P*******\n",
+        "error": null,
+        "count": 0,
+        "compromised": false
+      }
+    ],
+    "email_notes": [],
+    "local_corpus_matches": {
+      "error": null,
+      "matches": []
+    }
+  }
+}

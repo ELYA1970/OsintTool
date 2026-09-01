@@ -1,0 +1,136 @@
+{
+  "domain": "uber.com",
+  "subdomains": {
+    "domain": "uber.com",
+    "gobuster_error": null,
+    "total_found": 0,
+    "subdomains": []
+  },
+  "fingerprint": {
+    "domain": "uber.com",
+    "whois": {
+      "registrar": "MarkMonitor, Inc.",
+      "creation_date": "1995-07-14 04:00:00+00:00",
+      "expiration_date": "[datetime.datetime(2028, 7, 13, 4, 0, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2028, 7, 12, 7, 0, tzinfo=tzoffset('UTC', 0))]",
+      "name_servers": [
+        "DNS1.P04.NSONE.NET",
+        "DNS2.P04.NSONE.NET",
+        "DNS3.P04.NSONE.NET",
+        "DNS4.P04.NSONE.NET",
+        "EDNS126.ULTRADNS.BIZ",
+        "EDNS126.ULTRADNS.COM",
+        "EDNS126.ULTRADNS.NET",
+        "EDNS126.ULTRADNS.ORG"
+      ],
+      "org": "Uber Technologies, Inc.",
+      "emails": [
+        "abusecomplaints@markmonitor.com",
+        "whoisrequest@markmonitor.com"
+      ]
+    },
+    "targets_fingerprinted": [
+      {
+        "host": "uber.com",
+        "final_url": "https://www.uber.com/ma/en/",
+        "status_code": 200,
+        "server_header": "cloudflare",
+        "x_powered_by": null,
+        "cookies": [
+          "marketing_vistor_id",
+          "uber_sites_geolocalization"
+        ],
+        "technologies_detected": [
+          "Cloudflare"
+        ],
+        "tls": {
+          "issuer": {},
+          "subject": {},
+          "not_before": null,
+          "not_after": null,
+          "san": []
+        },
+        "error": null
+      }
+    ]
+  },
+  "osint": {
+    "domain": "uber.com",
+    "company_name": "facebook",
+    "theharvester": {
+      "error": null,
+      "emails": [],
+      "hosts": []
+    },
+    "sherlock": {
+      "error": null,
+      "results": {
+        "Abdellah el yazidi": [
+          "https://www.7cups.com/@Abdellah%20el%20yazidi",
+          "https://www.airliners.net/user/Abdellah%20el%20yazidi/profile/photos",
+          "https://developer.apple.com/forums/profile/Abdellah%20el%20yazidi",
+          "https://discussions.apple.com/profile/Abdellah%20el%20yazidi",
+          "https://archive.org/details/@Abdellah%20el%20yazidi",
+          "https://www.artstation.com/Abdellah%20el%20yazidi",
+          "https://cyberdefenders.org/p/Abdellah%20el%20yazidi",
+          "https://discord.com",
+          "https://f3.cool/Abdellah%20el%20yazidi/",
+          "https://freelance.habr.com/freelancers/Abdellah%20el%20yazidi",
+          "https://auth.geeksforgeeks.org/user/Abdellah%20el%20yazidi",
+          "https://giphy.com/Abdellah%20el%20yazidi",
+          "https://hackerearth.com/@Abdellah%20el%20yazidi",
+          "https://hashnode.com/@Abdellah%20el%20yazidi",
+          "https://hubski.com/user/Abdellah%20el%20yazidi",
+          "https://www.kaskus.co.id/@Abdellah%20el%20yazidi",
+          "https://www.lesswrong.com/users/@Abdellah%20el%20yazidi",
+          "https://www.mydramalist.com/profile/Abdellah%20el%20yazidi",
+          "https://forums.pcgamer.com/members/?username=Abdellah%20el%20yazidi",
+          "https://www.pepper.it/profile/Abdellah%20el%20yazidi/overview",
+          "https://rarible.com/marketplace/api/v4/urls/Abdellah%20el%20yazidi",
+          "https://www.reddit.com/user/Abdellah%20el%20yazidi",
+          "https://replit.com/@Abdellah%20el%20yazidi",
+          "https://www.roblox.com/user.aspx?username=Abdellah%20el%20yazidi",
+          "https://slideshare.net/Abdellah%20el%20yazidi",
+          "https://splice.com/Abdellah%20el%20yazidi",
+          "https://open.spotify.com/user/Abdellah%20el%20yazidi",
+          "https://www.trakt.tv/users/Abdellah%20el%20yazidi",
+          "https://forum.velomania.ru/member.php?username=Abdellah%20el%20yazidi",
+          "https://music.yandex/users/Abdellah%20el%20yazidi/playlists",
+          "http://www.authorstream.com/Abdellah%20el%20yazidi/",
+          "https://www.dailykos.com/user/Abdellah%20el%20yazidi",
+          "http://forum.igromania.ru/member.php?username=Abdellah%20el%20yazidi",
+          "https://www.interpals.net/Abdellah%20el%20yazidi",
+          "https://www.mercadolivre.com.br/perfil/Abdellah%20el%20yazidi",
+          "https://Abdellah%20el%20yazidi.omg.lol",
+          "https://www.opennet.ru/~Abdellah%20el%20yazidi",
+          "https://php.ru/forum/members/?username=Abdellah%20el%20yazidi",
+          "https://www.svidbook.ru/user/Abdellah%20el%20yazidi",
+          "https://www.threads.net/@Abdellah%20el%20yazidi"
+        ]
+      }
+    },
+    "linkedin_dorks": [
+      "site:linkedin.com/in \"facebook\"",
+      "site:linkedin.com/in \"facebook\" \"IT\" OR \"sysadmin\" OR \"security\"",
+      "site:linkedin.com/company \"facebook\"",
+      "\"uber.com\" site:linkedin.com",
+      "\"@uber.com\" -site:linkedin.com",
+      "site:github.com \"uber.com\"",
+      "site:pastebin.com \"uber.com\""
+    ]
+  },
+  "credentials": {
+    "password_checks": [
+      {
+        "password_masked": "M******3",
+        "error": null,
+        "count": 0,
+        "compromised": false
+      }
+    ],
+    "email_notes": [],
+    "local_corpus_matches": {
+      "error": null,
+      "matches": []
+    }
+  }
+}
